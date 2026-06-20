@@ -62,6 +62,19 @@ streamlit run app.py
 http://localhost:8501
 ```
 
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](screenshots/homepage.png)
+
+### Movie Search
+
+![Movie Search](screenshots/search.png)
+
+### Recommendations
+
+![Recommendations](screenshots/recommendation.png)
 ## Author
 
 Rajarajan V
