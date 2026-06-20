@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-🚀 Live Demo
+## 🚀 Live Demo
 Try the application here: https://movie-recommendation-system-ur29.streamlit.app/
 
 A content-based Movie Recommendation System built using Python, Scikit-Learn, and Streamlit.
