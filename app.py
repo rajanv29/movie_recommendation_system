@@ -118,7 +118,7 @@ st.write(
     "Get movie recommendations based on genres, keywords, overview, and tagline"
 )
 movie_name=st.text_input(
-    "Enter your favourite Movie"
+    "Enter your favourite Movie (e.g. The Dark Knight, Avatar, Inception, Titanic, etc.)"
 )
 if st.button("Recommend"):
     if movie_name.strip()=="":
