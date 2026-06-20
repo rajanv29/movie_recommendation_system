@@ -65,4 +65,5 @@ http://localhost:8501
 ## Author
 
 Rajarajan V
+
 If you found this project useful, feel free to star the repository and connect with me on LinkedIn.
