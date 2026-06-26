@@ -3,8 +3,8 @@
 ## 🚀 Live Demo
 Try the application here: https://movie-recommendation-system-ur29.streamlit.app/
 
-A content-based Movie Recommendation System built using Python, Scikit-Learn, and Streamlit.
-The application recommends **5 similar movies** based on the selected movie and displays their posters for a better user experience.
+A content-based Movie Recommendation System built using Python, Scikit-Learn, and Streamlit
+The application recommends **5 similar movies** based on the selected movie and displays their posters for a better user experience
 
 ## Features
 
